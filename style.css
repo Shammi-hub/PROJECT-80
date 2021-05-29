@@ -1,0 +1,65 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#search_button
+{
+	
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#show_button
+{
+	
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+#display_name_3
+{
+	
+    padding: 10px;
+	
+	border-radius: 10px;
+    width: 50%;
+}
+
+#display_name_2
+{
+	
+    padding: 10px;
+    
+	border-radius: 10px;
+    width: 50%;
+}
+#display_name_1
+{
+	
+    padding: 10px;
+   
+	border-radius: 10px;
+    width: 50%;
+}
+#display_name_4
+{
+	
+    padding: 10px;
+    
+	border-radius: 10px;
+    width: 50%;
+}
+body{
+    text-align:center;
+    background-color: bisque;
+}
